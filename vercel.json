@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/team/index.html",
+      "destination": "/team",
+      "permanent": true
+    }
+  ]
+}

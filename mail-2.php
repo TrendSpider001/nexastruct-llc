@@ -10,7 +10,7 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST') {
     exit('Method Not Allowed');
 }
 
-$to = 'contact@nexastruct.org';
+$to = 'info@nexastruct.llc';
 $fromLabel = 'NexaStruct Website';
 $siteUrl = 'https://nexastruct.org';
 

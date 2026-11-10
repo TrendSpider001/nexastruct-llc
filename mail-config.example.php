@@ -15,13 +15,13 @@ return [
         // Hostinger outgoing server (official): TLS on 587
         'host' => 'smtp.hostinger.com',
         'port' => 587,
-        // Full email address of the mailbox, e.g. contact@nexastruct.org
-        'username' => 'contact@nexastruct.org',
+        // Full email address of the mailbox, e.g. info@nexastruct.llc
+        'username' => 'info@nexastruct.llc',
         'password' => 'YOUR_MAILBOX_PASSWORD',
         'encryption' => 'tls',
     ],
     // Usually the same mailbox you send as (must exist in Hostinger Email)
-    'from_email' => 'contact@nexastruct.org',
-    // Where contact form messages are delivered (defaults to contact@nexastruct.org in mail scripts if omitted)
-    'to_email' => 'contact@nexastruct.org',
+    'from_email' => 'info@nexastruct.llc',
+    // Where contact form messages are delivered (defaults to info@nexastruct.llc in mail scripts if omitted)
+    'to_email' => 'info@nexastruct.llc',
 ];

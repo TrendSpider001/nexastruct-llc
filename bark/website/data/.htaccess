@@ -1,0 +1,9 @@
+# Protect account file from direct download. sheet.csv can still be read by the site.
+<Files "users.json">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+  <IfModule !mod_authz_core.c>
+    Deny from all
+  </IfModule>
+</Files>

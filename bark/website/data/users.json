@@ -1,0 +1,20 @@
+[
+    {
+        "id": "seed-0-admin",
+        "username": "admin",
+        "password": "sheetline2026",
+        "role": "admin"
+    },
+    {
+        "id": "seed-1-viewer",
+        "username": "viewer",
+        "password": "viewer2026",
+        "role": "user"
+    },
+    {
+        "id": "user-6a793474952da2.67374541",
+        "username": "user",
+        "password": "123456789",
+        "role": "user"
+    }
+]

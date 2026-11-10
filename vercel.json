@@ -4,6 +4,32 @@
       "source": "/team/index.html",
       "destination": "/team",
       "permanent": true
+    },
+    {
+      "source": "/about/index.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/projects/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/faq/index.html",
+      "destination": "/faq",
+      "permanent": true
+    },
+    {
+      "source": "/contact/index.html",
+      "destination": "/contact",
+      "permanent": true
     }
+
   ]
 }
